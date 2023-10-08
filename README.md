@@ -1,4 +1,4 @@
-# Casting_QA_Classification
+# Utilizing Image Processing and Deep Learning for Casting Classification
 
 ![title](title.png)
 
